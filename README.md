@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Ryan Haniff</h1>
-<h3 align="center">Software Developer from Montreal, 🇨🇦</h3>
+<h3 align="center">Software Developer from Montreal, :canada:</h3>
 
 - 🔭 I’m currently working on [F1_API](https://github.com/RyanHaniff/F1_API)
 
 - 🌱 I’m currently learning **Kubernetes, JavaScript, CISSP Domain 1 & 2**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ryanhaniff/**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ryanhaniff/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
