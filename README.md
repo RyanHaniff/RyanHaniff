@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Ryan Haniff</h1>
-<h3 align="center">Software Developer from Montreal, :canada:</h3>
+<h1 align="center">Ryan Haniff</h1>
+<h3 align="center">Software Developer, Montreal</h3>
 
 - 🔭 I’m currently working on [F1_API](https://github.com/RyanHaniff/F1_API)
 
