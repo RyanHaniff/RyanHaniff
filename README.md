@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, JavaScript, CISSP Domain 1 & 2**
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ryanhaniff/)
+- 📫 You can reach me [here](https://www.linkedin.com/in/ryanhaniff/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
