@@ -1,7 +1,7 @@
 <h1 align="center">Ryan Haniff</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left">Computer science graduate from Concordia University with a strong foundation in object-oriented programming, Algorithms, Machine Learning and Natural Language Processing.</p>
+<p align="left">Junior Software Developer at Douglas Research Center</p>
 
 - 🔭 I’m currently working on [F1_API](https://github.com/RyanHaniff/F1_API)
 
